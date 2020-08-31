@@ -1,0 +1,79 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "美团外卖"
+			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "订单"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索"
+			}
+		},
+		{
+			"path": "pages/takeout/takeout",
+			"style": {
+				"navigationBarTitleText": "商家列表",
+				"navigationBarBackgroundColor": "#ffd300"
+			}
+		},
+		{
+			"path": "pages/placeorder/placeorder",
+			"style": {
+				"navigationBarTitleText": "提交订单"
+			}
+		},
+		{
+			"path": "pages/evaluate/evaluate",
+			"style": {
+				"navigationBarTitleText": "评价"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "美团外卖",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF"
+	},
+	"tabBar": {
+		"color": "#999794",
+		"selectedColor": "#33312e",
+		"borderStyle": "white",
+		"backgroundColor": "#fafafa",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tab/shouyea.png",
+				"selectedIconPath": "static/tab/shouyeb.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/order/order",
+				"iconPath": "static/tab/dingdana.png",
+				"selectedIconPath": "static/tab/dingdanb.png",
+				"text": "订单"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"iconPath": "static/tab/wodea.png",
+				"selectedIconPath": "static/tab/wodeb.png",
+				"text": "我的"
+			}
+		]
+	}
+
+}

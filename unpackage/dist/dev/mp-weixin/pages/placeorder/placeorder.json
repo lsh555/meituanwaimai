@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "提交订单",
+  "usingComponents": {
+    "h-mmessages": "/components/HM-messages/HM-messages"
+  }
+}

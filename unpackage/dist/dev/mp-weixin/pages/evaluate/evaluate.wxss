@@ -1,0 +1,12 @@
+
+page{background: #F1F1F1;}
+.Comment-text textarea{width: 100%; color: #808080 !important; font-size: 30rpx;
+						padding: 8rpx;}
+.Comment-text{background: #FFFFFF;}
+.published{font-size: 35rpx; background: #ffdd00;
+			width: 300rpx;
+			text-align: center;
+			margin: 20rpx auto;
+			padding: 10rpx 0;
+			border-radius: 10rpx;}
+

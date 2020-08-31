@@ -1,0 +1,11 @@
+
+.order-no.data-v-3e222ac5{width: 400rpx; height: 400rpx;
+margin: 90rpx auto 0 auto;
+text-align: center;
+font-size: 28rpx;}
+.order-no image.data-v-3e222ac5{display: block;
+width: 250rpx; height: 250rpx;
+margin: 0 auto;
+padding-bottom: 30rpx;
+}
+

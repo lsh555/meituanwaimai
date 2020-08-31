@@ -1,0 +1,23 @@
+
+.loading.data-v-0e0b1682{position: fixed;
+left: 0;
+right: 0;
+bottom: 0;
+top: 0;
+background: #FFFFFF;
+z-index: 9999;}
+.loading view.data-v-0e0b1682{
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+-webkit-box-align: center;
+-webkit-align-items: center;
+        align-items: center;
+-webkit-box-pack: center;
+-webkit-justify-content: center;
+        justify-content: center;
+width: 100%; height: 100%;
+}
+.loading image.data-v-0e0b1682{width: 50px; height: 60px; display: block;}
+.loading text.data-v-0e0b1682{font-size: 25rpx;}
+

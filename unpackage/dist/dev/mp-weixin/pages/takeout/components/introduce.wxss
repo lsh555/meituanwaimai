@@ -1,0 +1,19 @@
+
+.introduce-back.data-v-b909495a{background: #fafafa; height: 100%; overflow-y: auto;}
+image.data-v-b909495a{width: 38rpx !important; height: 38rpx !important;
+}
+text.data-v-b909495a{display: block; font-size: 30rpx;}
+.introduce-view.data-v-b909495a{
+background: #ffffff;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+-webkit-box-align: center;
+-webkit-align-items: center;
+        align-items: center;
+height: 110rpx;
+margin: 20rpx 0;
+padding: 0 20rpx;}
+.introduce-view view.data-v-b909495a:nth-child(1){width: 38rpx; height: 38rpx;
+padding-right: 20rpx;}
+

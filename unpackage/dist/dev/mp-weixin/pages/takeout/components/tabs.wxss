@@ -1,0 +1,17 @@
+
+.ordering.data-v-0ff72e7a{margin: 20rpx;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+}
+.ordering text.data-v-0ff72e7a{
+margin-right: 60rpx;
+display: block;
+height: 60rpx;
+line-height: 60rpx;
+font-size: 33rpx;
+color: #666666;}
+.activetext.data-v-0ff72e7a{color: #333333 !important;
+font-weight: bold !important;
+border-bottom: 5rpx solid #ffd161;}
+

@@ -1,0 +1,46 @@
+
+page{background: #f2f3f4;}
+.order-back{background: #FFFFFF;
+margin: 10rpx;
+padding: 20rpx 10rpx;
+border-radius: 9rpx;}
+.order-img{width: 100rpx; height: 100rpx; padding-right: 20rpx;}
+.order-view image{width: 100rpx; height: 100rpx; border-radius: 10rpx;}
+.order-view{height: 106rpx;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+-webkit-box-align: center;
+-webkit-align-items: center;
+        align-items: center;
+-webkit-box-pack: justify;
+-webkit-justify-content: space-between;
+        justify-content: space-between;
+overflow: hidden;}
+.goods-commodity{-webkit-box-flex: 1;-webkit-flex-grow: 1;flex-grow: 1; font-size: 30rpx; font-weight: bold;}
+.order-succ{font-size: 28rpx; color: #666666;}
+.order-dishes{
+font-size: 28rpx;
+color: #666666;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex; -webkit-box-align: center; -webkit-align-items: center; align-items: center; -webkit-box-pack: justify; -webkit-justify-content: space-between; justify-content: space-between;
+height: 80rpx;
+}
+.order-Total text{display: block;}
+.order-right text:nth-child(1){padding-right: 10rpx;}
+.order-Total{ 
+font-size: 28rpx;
+color: #666666;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex; -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+-webkit-box-pack: justify;
+-webkit-justify-content: space-between;
+        justify-content: space-between;
+height: 80rpx;
+}
+.order-right{display: -webkit-box;display: -webkit-flex;display: flex; -webkit-box-align: center; -webkit-align-items: center; align-items: center;}
+.order-left text{background: #f2f3f4; border-radius: 10rpx;
+padding: 5rpx 10rpx;}
+

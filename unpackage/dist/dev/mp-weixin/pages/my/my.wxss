@@ -1,0 +1,15 @@
+
+.myhome.data-v-f42ac00c{background: -webkit-linear-gradient(bottom, #ffe566 10%, #ffd300 100%);background: linear-gradient(to top, #ffe566 10%, #ffd300 100%); height: 350rpx; display: -webkit-box; display: -webkit-flex; display: flex; -webkit-box-align: center; -webkit-align-items: center; align-items: center;}
+.wx-name image.data-v-f42ac00c{width: 120rpx !important; height: 120rpx !important; border-radius: 50%; margin-right: 20rpx;
+				border: 10rpx solid #999999;}
+text.data-v-f42ac00c{display: block; margin: 10rpx 0; color: #999999;}
+.wx-name.data-v-f42ac00c{display: -webkit-box;display: -webkit-flex;display: flex; -webkit-box-align: center; -webkit-align-items: center; align-items: center; padding: 0 30rpx; -webkit-align-content: center; align-content: center;
+		height: 200rpx;}
+.wx-text text.data-v-f42ac00c{font-size: 35rpx;}
+/* 登录 */
+.wx-button button.data-v-f42ac00c{border: none;font-size: 30rpx; background: -webkit-linear-gradient(left, #28a6f1 10%, #0e8dd7 80%); background: linear-gradient(to right, #28a6f1 10%, #0e8dd7 80%);
+ border-radius: 50rpx;
+color: #FFFFFF;}
+.wx-button-view.data-v-f42ac00c{font-size: 35rpx; color: #FFFFFF; margin-bottom: 25rpx;}
+.wx-button.data-v-f42ac00c{margin: 0 auto;}
+

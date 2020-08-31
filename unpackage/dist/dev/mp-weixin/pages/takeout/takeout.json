@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "商家列表",
+  "navigationBarBackgroundColor": "#ffd300",
+  "usingComponents": {
+    "business": "/pages/takeout/components/business",
+    "tabs": "/pages/takeout/components/tabs",
+    "ordering": "/pages/takeout/components/ordering",
+    "message": "/pages/takeout/components/message",
+    "introduce": "/pages/takeout/components/introduce"
+  }
+}

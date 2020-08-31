@@ -1,0 +1,1 @@
+<view class="ordering data-v-0ff72e7a"><block wx:for="{{order}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block class="data-v-0ff72e7a"><text data-event-opts="{{[['tap',[['menubtn',[index]]]]]}}" class="{{['data-v-0ff72e7a',(index==num)?'activetext':'']}}" bindtap="__e">{{item}}</text></block></block></view>

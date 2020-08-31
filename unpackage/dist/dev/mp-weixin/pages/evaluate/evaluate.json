@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "评价",
+  "usingComponents": {
+    "h-mmessages": "/components/HM-messages/HM-messages"
+  }
+}
